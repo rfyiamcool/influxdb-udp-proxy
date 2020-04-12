@@ -1,0 +1,3 @@
+influxdb:
+  addr: "10.2.11.88:8086"
+  name: "xiaorui.cc"
